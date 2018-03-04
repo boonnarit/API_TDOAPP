@@ -26,8 +26,7 @@
 http://localhost:1412/api/getlist/alltask
 ```
 
-##Routes
-
+## Routes
 1.For view all item in the list 
 this route return list of Task object
 ```
